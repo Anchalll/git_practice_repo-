@@ -1,9 +1,7 @@
 this is temp initial state.
 hey changes are made!
 I made these changes in master C1.
-<<<<<<< HEAD
-master C2.
-=======
 new_branch C3.
 new_branch C4.
->>>>>>> new_branch
+master C2.
+Now I resolved the conflict !
